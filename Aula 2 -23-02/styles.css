@@ -1,0 +1,51 @@
+* {
+    text-decoration: none;    
+}
+
+img {
+    float: left;
+    padding: 1px;
+}
+
+div {
+    clear: both;
+    background: rgb(76, 188, 240);
+    height: 45px;
+    border: 2px solid rgb(2, 120, 255);
+    max-width: 300px;
+}
+
+span {
+    padding-top: 10px;
+    padding-left: 5px;
+    display: inline-block;
+}
+
+a:hover {
+    color: red;
+    font-weight: bold;
+    transition: all 0.3s;
+}
+
+
+/* ATIVIDADE DO PROFESSOR */
+
+.home {
+    background: orangered;
+    border: orangered;
+}
+
+.services {
+    background: orange;
+    border: orange;
+}
+
+.portifolio {
+    background: #2d9af3;
+    border: #2d9af3;
+}
+
+.blog {
+    background: #19629e;
+    border: #19629e
+}
